@@ -21,3 +21,6 @@ elif imc > 30:
     print("Obesidade")
 else:
     print("Sobrepeso")
+
+# Mensagem Final
+print("Obrigado por usar este programa de cálculo do IMC, espero que goste!")
